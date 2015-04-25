@@ -1,0 +1,22 @@
+50243279,science,Alpha directions,北京联合出版公司,2015,Jens Harder,188.00,3
+35732309,science,A Brief History of Time,湖南科学技术出版社,2010,Stephen Hawking,45.00,4
+06030048,science,The Selfish Gene,吉林人民出版社,1998,里查德・道金斯,24.00,2
+08646640,economy,Hard thing about hard things,中信出版社,2015,Ben Horowitz,49.00,9
+00072487,economy,The Psychology of Persuasion,中国人民大学出版社,2006,Robert B. Cialdini,45.00,3
+15234957,economy,The intelligent investor,人民邮电出版社,2010,Benjamin Graham,88.00,9
+00421368,economy,The Road to Serfdom,中国社会科学出版社,1997,弗里德利希・冯・哈耶克,16.00,7
+50243279,history,Alpha directions,北京联合出版公司,2015,Jens Harder,188.00,2
+08649993,history,Honor and dream,中信出版社,2015,William Manchester,236.00,1
+08647357,history,A brief history of humankind,中信出版社,2014,尤瓦尔·赫拉利,68.00,4
+13300711,society,Out of Control,新星出版社,2010,凯文·凯利,88.00,7
+01093660,society,The Crowd,中央编译出版社,1998,Gustave Le Bon,16.00,3
+32739547,art,The Moon and Sixpence,上海译文出版社,2006,William Somerset Maugham,15.00,5
+01088334,art,Story,天津人民出版社,2014,罗伯特·麦基,68.00,1
+07463726,art,The Story of Art,广西美术出版社,2008,Ernst Gombrich,280.00,6
+09041065,art,设计中的设计,山东人民出版社,2006,原研哉,48.00,2
+44722766,education,To Kill a Mocking Bird,译林出版社,2012,哈珀·李,32.00,6
+00040945,education,How to Read a Book,商务印书馆,2004,莫提默·J. 艾德勒,38.00,6
+39957173,fiction,The End of Eternity,江苏文艺出版社,2014,Isaac Asimov,32.00,4
+39978529,fiction,The Gods Themselves,江苏凤凰文艺出版社,2014,Isaac Asimov,39.00,3
+38275551,fiction,Flowers for Algernon,辽宁教育出版社,2005,丹尼尔·凯斯,25.00,2
+07421774,life,All Things Bright and Beautiful,中国城市出版社,2010,James Herriot,28.80,2

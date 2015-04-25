@@ -1,0 +1,4 @@
+1,Novel,Steven Jobs,Simon,2013,Walter,89.3,3
+4,Note,Linux Shell,Note,2001,Bird Uncle,53.2,10
+10,Note,Mysql,publishermy,2003,Someone,23.1,2
+23,Note,bczm,publisherbczm,2006,Software,32.2,1

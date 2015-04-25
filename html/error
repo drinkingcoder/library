@@ -1,0 +1,6 @@
+ld: warning: ignoring file manage.php, file was built for unsupported file format ( 0x3C 0x3F 0x0A 0x09 0x67 0x6C 0x6F 0x62 0x61 0x6C 0x20 0x24 0x6D 0x61 0x6E 0x61 ) which is not the architecture being linked (x86_64): manage.php
+Undefined symbols for architecture x86_64:
+  "_main", referenced from:
+     implicit entry/start for main executable
+ld: symbol(s) not found for architecture x86_64
+clang: error: linker command failed with exit code 1 (use -v to see invocation)
